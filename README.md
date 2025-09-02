@@ -1,16 +1,7 @@
-# dine_up
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# DineUp
+Mobile application that helps employees feel free to chat along with each other to which restaurant they are going to order food from, weather breakfast or lunch.
+# TODO
+1- The appility to add/update/delete resturant.  
+2- Chat with your colleagues to agree which resturant that going to order from.  
+3- Cart that calculate the total of the order.  
+4- Notification system that notify user's that there is ticket.  
